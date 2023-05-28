@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.59be2916.chunk.css",
-  "main.js": "/static/js/main.dab7d4c8.chunk.js",
-  "main.js.map": "/static/js/main.dab7d4c8.chunk.js.map",
+  "main.css": "/static/css/main.e42d3407.chunk.css",
+  "main.js": "/static/js/main.420ab3c7.chunk.js",
+  "main.js.map": "/static/js/main.420ab3c7.chunk.js.map",
   "static/js/1.3f5a8f4c.chunk.js": "/static/js/1.3f5a8f4c.chunk.js",
   "static/js/1.3f5a8f4c.chunk.js.map": "/static/js/1.3f5a8f4c.chunk.js.map",
   "static/js/2.cddc92c4.chunk.js": "/static/js/2.cddc92c4.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/static/js/runtime~main.38973534.js",
   "runtime~main.js.map": "/static/js/runtime~main.38973534.js.map",
   "static/media/App.css": "/static/media/galaxies.f4745f64.JPG",
-  "static/css/main.59be2916.chunk.css.map": "/static/css/main.59be2916.chunk.css.map",
+  "static/css/main.e42d3407.chunk.css.map": "/static/css/main.e42d3407.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.258a164e41acc4d6f043f65977ce06b8.js": "/precache-manifest.258a164e41acc4d6f043f65977ce06b8.js",
+  "precache-manifest.9cb9743dec7c781a0e00241b15cf9365.js": "/precache-manifest.9cb9743dec7c781a0e00241b15cf9365.js",
   "service-worker.js": "/service-worker.js"
 }
