@@ -3,23 +3,21 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    max-width: 2200px;
-    max-height: 1600px;
-    min-width: 720px;
-    min-height: 1280px;
+    width: 1800px;
+    height: 1200px;
     background-size: auto;
-    position: relative;
+    overflow: auto;
     top: 0;
     bottom: 0;
+    position: relative;
     left: 0;
     right: 0;
-    overflow: auto;
     justify-content: center;
 }
 
 html, body {
     height: 100%;
-    overflow: hidden;
+    overscroll-behavior: none;
 }
 
 
